@@ -1,3 +1,4 @@
 # calculator
 This is my calculator app repositary
-Abdul Saboor 
+<br>
+Author: Abdul Saboor 
